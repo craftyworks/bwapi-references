@@ -29,3 +29,9 @@ C++
 
 Java
 * https://github.com/Shadowen/Lightning-AI
+
+## Atlantis
+
+Java Framework
+
+* https://github.com/Ravaelles/Atlantis
